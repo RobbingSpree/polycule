@@ -27,11 +27,12 @@ for (var i=0; i<size; i++) {
 		draw_set_halign(fa_center);
 		draw_set_valign(fa_center);
 		var str = peep.namewa;
-		draw_text(peep.xx,peep.yy,str)
+		draw_set_font(text_ft);
+		text_outline(peep.xx,peep.yy,str,c_black,c_white,2);
 		draw_set_halign(-1)
 		draw_set_valign(-1)
 	}
 }
 
 //debug
-draw_text(10,10,total);
+//draw_text(10,10,total);

@@ -1,6 +1,7 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function person(index) constructor{
+	randomize();
 	namewa = get_a_name(index); //character name
 	gender = irandom(gen.nb); //picks if character is male, female or nb. Exclusive check
 	attracted = [irandom(1), irandom(1), irandom(1)]; //array for if attracted to male, female or nb
@@ -30,9 +31,9 @@ function get_a_name(index){
 		case 6: return "Bo-Jangle"; break;
 		case 7: return "Kivim"; break;
 		case 8: return "Frad"; break;
-		case 9: return "Susantha"; break;
-		case 10: return "Object Perminence"; break;
-		case 11: return "MPDG"; break;
+		case 9: return "Susanthony"; break;
+		case 10: return "Object\nPerminence"; break;
+		case 11: return "MVP"; break;
 		case 12: return "Baaaaad"; break;
 		case 13: return "Shoop"; break;
 		case 14: return "Brixney"; break;

@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"cule","path":"objects/cule/cule.yy",},"order":0,},
     {"id":{"name":"text_ft","path":"fonts/text_ft/text_ft.yy",},"order":0,},
+    {"id":{"name":"text_and_such","path":"scripts/text_and_such/text_and_such.yy",},"order":1,},
     {"id":{"name":"lovers_and_people","path":"scripts/lovers_and_people/lovers_and_people.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
