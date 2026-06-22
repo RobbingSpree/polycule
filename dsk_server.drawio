@@ -360,7 +360,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tYDLS_w4aJHaHW2gQ50K" name="Page-3">
-    <mxGraphModel dx="1978" dy="1069" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="1068" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,31 +389,31 @@
           <mxGeometry height="60.5" width="35.5" x="104" y="83" as="geometry" />
         </mxCell>
         <mxCell id="hN-z65M01aSyQlUt_ieY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Relations to a system" vertex="1">
-          <mxGeometry height="30" width="60" x="429" y="-3" as="geometry" />
+          <mxGeometry height="30" width="60" x="432" y="-160" as="geometry" />
         </mxCell>
         <mxCell id="hN-z65M01aSyQlUt_ieY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Legend" vertex="1">
-          <mxGeometry height="30" width="60" x="491" y="-87" as="geometry" />
+          <mxGeometry height="25" width="60" x="494" y="-225" as="geometry" />
         </mxCell>
         <mxCell id="hN-z65M01aSyQlUt_ieY-3" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="506" y="27" as="sourcePoint" />
-            <mxPoint x="556" y="-23" as="targetPoint" />
+            <mxPoint x="509" y="-130" as="sourcePoint" />
+            <mxPoint x="559" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hN-z65M01aSyQlUt_ieY-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="514" y="117" as="sourcePoint" />
-            <mxPoint x="564" y="67" as="targetPoint" />
+            <mxPoint x="517" y="-53" as="sourcePoint" />
+            <mxPoint x="567" y="-103" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hN-z65M01aSyQlUt_ieY-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Calls other by attached name" vertex="1">
-          <mxGeometry height="30" width="60" x="429" y="83" as="geometry" />
+          <mxGeometry height="30" width="60" x="432" y="-87" as="geometry" />
         </mxCell>
         <mxCell id="hN-z65M01aSyQlUt_ieY-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="44" width="68" x="512" y="159" as="geometry" />
+          <mxGeometry height="44" width="68" x="515" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="hN-z65M01aSyQlUt_ieY-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="mom-coded" vertex="1">
-          <mxGeometry height="30" width="60" x="424" y="164" as="geometry" />
+          <mxGeometry height="30" width="60" x="427" y="-25" as="geometry" />
         </mxCell>
         <mxCell id="EmYmu50j-u3Nkkg9W5BJ-1" edge="1" parent="1" source="4BeJG1wMbgs9U-gbtXX1-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=light-dark(#54DCFF,#FFFFFF);startArrow=none;startFill=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
@@ -861,10 +861,49 @@
           <mxGeometry height="60" width="120" x="-393" y="-239" as="geometry" />
         </mxCell>
         <mxCell id="lJQaLkZW1zWeLvfN0QDs-29" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="word" vertex="1">
-          <mxGeometry height="35.5" width="77" x="507.5" y="238" as="geometry" />
+          <mxGeometry height="35.5" width="77" x="510.5" y="36" as="geometry" />
         </mxCell>
         <mxCell id="lJQaLkZW1zWeLvfN0QDs-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="animal tag" vertex="1">
-          <mxGeometry height="30" width="60" x="429" y="240.75" as="geometry" />
+          <mxGeometry height="30" width="60" x="432" y="38.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Thin_Vol_2-1981/crown-simple-thin-977.svg" value="" vertex="1">
+          <mxGeometry height="21" width="21" x="547" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="princess tag" vertex="1">
+          <mxGeometry height="30" width="60" x="436" y="79" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Halloween-2815/_Broom-1114.svg" value="" vertex="1">
+          <mxGeometry height="18" width="18" x="550" y="132" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="maid tag" vertex="1">
+          <mxGeometry height="30" width="60" x="434" y="127" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-5" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Thin_Vol_2-1981/crown-simple-thin-977.svg" value="" vertex="1">
+          <mxGeometry height="21" width="21" x="118.5" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Thin_Vol_2-1981/crown-simple-thin-977.svg" value="" vertex="1">
+          <mxGeometry height="21" width="21" x="335" y="-61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-7" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Thin_Vol_2-1981/crown-simple-thin-977.svg" value="" vertex="1">
+          <mxGeometry height="21" width="21" x="-303" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-8" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Thin_Vol_2-1981/crown-simple-thin-977.svg" value="" vertex="1">
+          <mxGeometry height="21" width="21" x="128" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-9" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Thin_Vol_2-1981/crown-simple-thin-977.svg" value="" vertex="1">
+          <mxGeometry height="21" width="21" x="-93" y="-61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-11" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Thin_Vol_2-1981/crown-simple-thin-977.svg" value="" vertex="1">
+          <mxGeometry height="21" width="21" x="-300" y="-202" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-12" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Halloween-2815/_Broom-1114.svg" value="" vertex="1">
+          <mxGeometry height="18" width="18" x="-91" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-13" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Halloween-2815/_Broom-1114.svg" value="" vertex="1">
+          <mxGeometry height="18" width="18" x="-292" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa_uGDlqkRS2RTM1C159-14" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Halloween-2815/_Broom-1114.svg" value="" vertex="1">
+          <mxGeometry height="18" width="18" x="112.75" y="-200.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
