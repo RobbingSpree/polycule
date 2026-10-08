@@ -963,7 +963,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SwTljYMdBlow05XC9L3Z" name="mamas-bedroom">
-    <mxGraphModel dx="1384" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1624" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1276,6 +1276,16 @@
         </mxCell>
         <mxCell id="3NtCmdf8uKjNr4Q6je_b-7" connectable="0" parent="3NtCmdf8uKjNr4Q6je_b-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sister" vertex="1">
           <mxGeometry relative="1" x="0.5524" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64HYef5gu4Leg8GylWnu-6" connectable="0" parent="3NtCmdf8uKjNr4Q6je_b-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="daughter" vertex="1">
+          <mxGeometry relative="1" x="0.4142" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64HYef5gu4Leg8GylWnu-7" connectable="0" parent="3NtCmdf8uKjNr4Q6je_b-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="mom" vertex="1">
+          <mxGeometry relative="1" x="0.049" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1597,8 +1607,24 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3NtCmdf8uKjNr4Q6je_b-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Monika/Nico" vertex="1">
-          <mxGeometry height="60" width="120" x="580" y="560" as="geometry" />
+        <mxCell id="64HYef5gu4Leg8GylWnu-4" connectable="0" parent="3NtCmdf8uKjNr4Q6je_b-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="mom" vertex="1">
+          <mxGeometry relative="1" x="-0.1093" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64HYef5gu4Leg8GylWnu-5" connectable="0" parent="3NtCmdf8uKjNr4Q6je_b-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="daughter" vertex="1">
+          <mxGeometry relative="1" x="-0.66" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64HYef5gu4Leg8GylWnu-3" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="155" x="580" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="64HYef5gu4Leg8GylWnu-2" parent="64HYef5gu4Leg8GylWnu-3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;size=10;align=right;" value="fox&amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="17.75" width="60" x="95" y="42.25" as="geometry" />
+        </mxCell>
+        <mxCell id="3NtCmdf8uKjNr4Q6je_b-4" parent="64HYef5gu4Leg8GylWnu-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Maiden System" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
